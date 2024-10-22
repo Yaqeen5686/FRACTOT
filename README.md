@@ -1,7 +1,7 @@
-# Redot Engine
+# fractot engine
 
 <p align="center">
-  <a href="https://redotengine.org/">
+  <a href="https://github.com/Yaqeen5686/FRACTOT/">
     <img src="logo_outlined.png" width="400" alt="Fractotengine">
   </a>
 </p>
