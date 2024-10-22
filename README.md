@@ -1,4 +1,4 @@
-# Godot Engine
+# FRACTOT ENGINE
 
 <p align="center">
   <a href="https://github.com/Yaqeen5686/FRACTOT/tree/master
@@ -8,7 +8,7 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[FRACTOT ENGINE] is a feature-packed, cross-platform
+**[FRACTOT ENGINE] is a fork of godot
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,17 +18,14 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
+FRACTOT is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
 expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
 not-for-profit.
 
-Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
-for several years as an in-house engine, used to publish several work-for-hire
+
 titles.
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
