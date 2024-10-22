@@ -24,6 +24,8 @@ to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
 expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
 not-for-profit.
+Before being open sourced in February 2014, Godot had been developed by Juan Linietsky and Ariel Manzur (both still maintaining Godot) for several years as an in-house engine, used to publish several work-for-hire titles.
 
+FRACTOT was forked from Godot in OCTOBER 2024
 
 
