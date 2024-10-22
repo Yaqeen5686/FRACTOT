@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Yaqeen5686/FRACTOT/tree/master
-    <img src="splash.png" width="400" alt="Godot Engine logo">
+    <img src="logo.png" width="400" alt="Godot Engine logo">
   </a>
 </p>
 
